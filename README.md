@@ -7,6 +7,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rubio9z&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=rubio9z&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
